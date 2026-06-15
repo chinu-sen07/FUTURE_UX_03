@@ -1,8 +1,8 @@
 # FUTURE_UX_03
 CRM UI/UX Internship Task 3
-# FUTURE_UX_02
 
-## UI/UX Internship Task 2
+
+## UI/UX Internship Task 3
 
 # CRM Dashboard Design
 
